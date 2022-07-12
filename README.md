@@ -1,0 +1,2 @@
+# ScraperCC
+Scrape with Playwright
